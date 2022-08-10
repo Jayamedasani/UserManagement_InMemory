@@ -1,0 +1,4 @@
+org\example\model\UserDetails.class
+org\example\UserOperationsImpl.class
+org\example\Main.class
+org\example\UserOperations.class
